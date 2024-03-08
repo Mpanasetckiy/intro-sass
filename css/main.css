@@ -1,5 +1,9 @@
+.footer h3 {
+  font-style: italic;
+  border: 3px solid red; }
+
 .nav {
-  background-color: orange; }
+  background-color: #006633; }
   .nav ul li {
     list-style: none; }
   .nav a {
@@ -9,7 +13,7 @@
     .nav a:hover {
       color: royalblue; }
 
-.heading, h1, .footer h3 {
+h1, .footer h3 {
   color: orange;
   font-size: 40px;
   background-color: beige;
